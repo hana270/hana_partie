@@ -2,3 +2,5 @@ Ceci est le fichier principal.
 
 Feature 1 modification
 
+Feature 2 modification
+
