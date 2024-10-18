@@ -1,2 +1,3 @@
 Ceci est un fichier de test.
 Ceci est le fichier principal.
+Feature 2 modification
